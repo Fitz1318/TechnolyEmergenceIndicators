@@ -33,6 +33,11 @@
 
 - 王玏, 吴新年. 新兴技术识别方法研究综述[J]. 图书情报工作, 2020, 64(4):11.
 
+### 经典论文
+
+- Liu X , Porter A L , Liu X , et al. A 3-dimensional Analysis for Evaluating Technology Emergence Indicators[J]. Scientometrics, 2020(1).
+- Porter A L , Garner J , Carley S F , et al. Emergence scoring to identify frontier R&D topics and key players[J]. Technological Forecasting and Social Change, 2018:S0040162517314804.
+
 
 
 ## 相关比赛
