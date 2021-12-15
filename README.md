@@ -15,7 +15,7 @@
 5. [代表学者](###代表学者)
    1. [Alan L. Porter](####Alan L. Porter)
    2. [徐硕](####徐硕)
-6. 社交网络分析工具
+6. [社交网络分析工具](###社交网络分析工具)
 
 ## 介绍
 
@@ -64,6 +64,6 @@
 
 &emsp;&emsp;北京工业大学的徐硕团队近些年来也做了很多技术预测相关的工作，他们是2018技术测量大赛的第二名。他的ResearchGate主页是`https://www.researchgate.net/profile/Shuo-Xu-4`。他的中文个人主页是`http://54xushuo.net/wiki/doku.php?id=aboutme`
 
-
+### 社交网络分析工具
 
 ### 
